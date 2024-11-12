@@ -63,7 +63,10 @@ endmodule
 ```
 
 
+**Truth Table**
 
+![image](https://github.com/user-attachments/assets/4e7a7457-c6fd-4cca-b680-d4a47fefd922)
+![image](https://github.com/user-attachments/assets/79237b70-8319-4779-9ff7-3486859580a5)
 
 **RTL realization**
 
